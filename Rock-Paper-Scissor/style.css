@@ -44,7 +44,7 @@ margin:5px;
 }
 #scissor{
     background-image: url("https://thumb.silhouette-ac.com/t/a7/a7c3020b4cfb4fd154c4fcfd62702df2_t.jpeg");
-    color:#edd54a;
+    background-color:#edd54a;
     background-blend-mode:multiply;
     background-size: cover;
 }
