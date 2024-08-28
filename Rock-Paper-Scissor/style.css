@@ -31,15 +31,18 @@ margin:5px;
     align-items: center; 
 }
 #rock{
-   background-image : url("rock.jpg");
+   background-image : url("https://thumb.silhouette-ac.com/t/69/69ffced83032519ca680dc3058b9ca26_t.jpeg");
+    color: #f5a9d6;
    background-size: cover;
 }
 #paper{
-   background-image: url("paper.jpg");
+   background-image: url("https://thumb.silhouette-ac.com/t/26/2654adfd65b6ca4a8ac25a9f727d2262_t.jpeg");
+    color: #f5a9a9;
    background-size: cover;
 }
 #scissor{
-    background-image: url("scissor.jpg");
+    background-image: url("https://thumb.silhouette-ac.com/t/a7/a7c3020b4cfb4fd154c4fcfd62702df2_t.jpeg");
+    color:#fc5858;
     background-size: cover;
 }
 /* score board */
