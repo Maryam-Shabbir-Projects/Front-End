@@ -32,19 +32,19 @@ margin:5px;
 }
 #rock{
    background-image : url("https://thumb.silhouette-ac.com/t/69/69ffced83032519ca680dc3058b9ca26_t.jpeg");
-    background-color: #ebabde;
+    background-color: #34ebb1;
     background-blend-mode:multiply;
    background-size: cover;
 }
 #paper{
    background-image: url("https://thumb.silhouette-ac.com/t/26/2654adfd65b6ca4a8ac25a9f727d2262_t.jpeg");
-    background-color: red;
+    background-color: #eb3434;
     background-blend-mode:multiply;
    background-size: cover;
 }
 #scissor{
     background-image: url("https://thumb.silhouette-ac.com/t/a7/a7c3020b4cfb4fd154c4fcfd62702df2_t.jpeg");
-    color:#fc5858;
+    color:#edd54a;
     background-blend-mode:multiply;
     background-size: cover;
 }
