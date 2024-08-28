@@ -32,7 +32,7 @@ margin:5px;
 }
 #rock{
    background-image : url("https://thumb.silhouette-ac.com/t/69/69ffced83032519ca680dc3058b9ca26_t.jpeg");
-    color: #f5a9d6;
+    background-blend-mode: #f5a9d6;
    background-size: cover;
 }
 #paper{
